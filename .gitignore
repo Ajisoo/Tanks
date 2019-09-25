@@ -1,0 +1,17 @@
+
+.vs/
+Unity.CollabProxy.Editor.csproj
+Unity.Rider.Editor.csproj
+Unity.TextMeshPro.csproj
+Unity.TextMeshPro.Editor.csproj
+Unity.VSCode.Editor.csproj
+UnityEditor.TestRunner.csproj
+UnityEngine.TestRunner.csproj
+Tanks.sln
+Tanks.csproj
+Assembly-CSharp.csproj
+Temp/
+Packages/
+obj/
+Logs/
+Library/
